@@ -42,6 +42,7 @@ Please feel free to contribute by adding content through pull requests or by sub
    :titlesonly:
 
    Content/WhatGoesWhere
+   Content/WritingStyleGuide
 
 .. Meta Menu
 
