@@ -20,7 +20,7 @@ TYPO3 has two main websites and act as hubs for distinct target personas. Articl
 Articles for typo3.com
 =====================
 
-.. info::
+.. note::
 
    Articles on typo3.com are published in the Blog.
 
@@ -49,7 +49,7 @@ Articles for typo3.com
 Articles for typo3.org
 =====================
 
-.. info::
+.. note::
 
    Articles on typo3.org are published as News.
 
