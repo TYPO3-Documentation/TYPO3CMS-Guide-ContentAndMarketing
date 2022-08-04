@@ -1,14 +1,14 @@
 .. include:: /Includes.rst.txt
 
-=========
-<project>
-=========
+===========================
+Content and Marketing Guide
+===========================
 
 :Extension key:
-   <extension-key>
+   guide_contentandmarketing
 
 :Package name:
-   <package-name>
+   Content and Marketing Guide
 
 :Version:
    |release|
@@ -17,7 +17,7 @@
    en
 
 :Author:
-   <author>
+   TYPO3 Project Contributors
 
 :License:
    This document is published under the
@@ -29,13 +29,20 @@
 
 ----
 
-<abstract>
+Information and workflows relating to the TYPO3 `Marketing Team <https://typo3.org/community/teams/marketing>`__ and `Content Group <https://typo3.org/community/teams/content>`__.
+
+Please feel free to contribute by adding content through pull requests or by submitting issues.
 
 ----
 
 **Table of Contents:**
 
-<table-of-contents>
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   Content/WhatGoesWhere
+   Content/WritingStyleGuide
 
 .. Meta Menu
 
