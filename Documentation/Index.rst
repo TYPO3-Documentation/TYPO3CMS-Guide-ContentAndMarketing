@@ -43,6 +43,8 @@ Please feel free to contribute by adding content through pull requests or by sub
 
    Content/WhatGoesWhere
    Content/WritingStyleGuide
+   Events/YouCanMeet
+   Events/MeetTypo3
 
 .. Meta Menu
 
