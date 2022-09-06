@@ -43,3 +43,16 @@ A budget is available for covering expenses related to event participation:
 * Lodging
 
 All costs are subject to TYPO3's standard `travel regulations <https://typo3.org/project/association/funding-finances/budget-owners-guide#c384>`__.
+
+.. _resources:
+
+Resources
+=========
+
+Nice conversations and exchanges are good, but the best is if TYPO3 can bring something more to the events where we attend.
+
+At the moment, three slide decks are in development:
+
+* TYPO3 CMS: About TYPO3, features, cases, etc.
+* Open Source CMS: About the benefits of using an open source CMS such as TYPO3.
+* Open Source: About the benefits of open source with TYPO3 as an example.
