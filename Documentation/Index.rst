@@ -41,8 +41,8 @@ Please feel free to contribute by adding content through pull requests or by sub
    :maxdepth: 2
    :titlesonly:
 
-   Content/WhatGoesWhere
-   Content/WritingStyleGuide
+   Content/Index
+   Events/Index
 
 .. Meta Menu
 
