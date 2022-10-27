@@ -20,6 +20,7 @@ When using a CC BY-SA licensed image, credit must be given to the creator and ad
 
 **CC BY-ND**
 This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use. 
+
 When using a CC BY-SA licensed image, credit must be given to the creator and no adaptations of the work are permitted. 
 
 **CC 0**
