@@ -10,6 +10,7 @@ Advertorial images for marketing and publicity purposes should be able to be sha
 
 **CC BY** 
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.
+
 When using a CC BY licensed image, credit must be given to the creator. 
 
 **CC BY-SA**
