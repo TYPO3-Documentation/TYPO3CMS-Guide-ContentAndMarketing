@@ -1,6 +1,10 @@
-======================
-Images And Licensing
-======================
+.. include:: /Includes.rst.txt
+
+.. _image-licensing:
+
+====================
+Images and Licensing
+====================
 
 Advertorial images for marketing and publicity purposes should be able to be shared and distributed by any community member without creating licensing issues. Therefore, when creating any image material relating to posts on typo3.org, please make sure to use images with one of the following licenses:
 
