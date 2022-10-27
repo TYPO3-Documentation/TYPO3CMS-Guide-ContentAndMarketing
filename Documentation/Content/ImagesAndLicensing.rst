@@ -26,5 +26,4 @@ When using a CC BY-SA licensed image, credit must be given to the creator and no
 **CC 0**
 CC 0 (CC Zero) is a public dedication tool, which allows creators to give up their copyright and put their works into the worldwide public domain. CC0 allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
 
-
 Please stay away from any licenses, forbidding the commercial use, distribution or usage of an image without dedicated agreement from the creator itself. 
