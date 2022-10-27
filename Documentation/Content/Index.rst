@@ -11,4 +11,5 @@ Writing and Publishing
 
    WhatGoesWhere
    WritingStyleGuide
+   ImagesAndLicensing
 
