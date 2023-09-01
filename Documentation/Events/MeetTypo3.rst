@@ -36,13 +36,13 @@ Meet TYPO3 event participation has the same requirements as participation in the
 Ticket and Travel Support
 =========================
 
-A budget is available for covering expenses related to event participation:
+A budget is available for covering a single person's participation expenses for each each event:
 
 * Event ticket
 * Travel costs
 * Lodging
 
-All costs are subject to TYPO3's standard `travel regulations <https://typo3.org/project/association/funding-finances/budget-owners-guide#c384>`__.
+All costs are subject to the TYPO3 Association's `Travel Expense and Reimbursement Regulations <https://typo3.org/project/association/funding-finances/reimbursement-regulations>`__.
 
 .. _resources:
 
