@@ -164,14 +164,17 @@ Would you like potatoes, carrots, or leeks?
 Dashes
 ======
 
-We use an em-dashes without spaces around to mark parenthesis. We use n-dashes without spaces around to mark from–to in a number series.
+We use an em-dashes *with* spaces around to mark parenthesis. We use n-dashes *without* spaces around to mark from–to in a number series.
+
+.. versionchanged:: 19 July 2023
+   Previous to this, the styleguide specified em-dashes *without* spaces around to mark parenthesis. This was changed to better align with usage elsewhere in TYPO3.
 
 .. _dashes-examples:
 
 Examples:
 ---------
 
-TYPO3—not any other CMS—is my favorite.
+TYPO3 — not any other CMS — is my favorite.
 
 There are 20–25 options available.
 
