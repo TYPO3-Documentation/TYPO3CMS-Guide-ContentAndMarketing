@@ -162,6 +162,39 @@ Choose between the numbers 4, 42, and 64.
 
 The difference is less than 0.5.
 
+.. _placenames:
+
+Place Names
+===========
+
+English spelling is used for placenames. When an English spelling is not available, the name is transliterated using the `Unicode Transliteration Guidelines <https://cldr.unicode.org/index/cldr-spec/transliteration-guidelines>`__. Acceptable transliterations can be found on `Wikipedia <https://en.wikipedia.org>`__ and `OpenStreetMap's Nominatim Search <https://nominatim.openstreetmap.org>`__
+
+Keeping diacritics is preferred, but not required.
+
+Place names should always be introduced with their country. State or region is optional, but recommended where it can avoid misunderstanding. When not otherwise explained in context, the country and state/region is postfixed, separated by comma(s): [Place Name], [State/Region, ][Country].
+
+Names of states and regions are never abbreviated.
+
+..  warning::
+   Please note that transliterations are language-dependent. Both Japanese and Chinese use similar characters, so the characters for the Japanese town of Ōzora (大空町) is transliterated *Ōzora-chō*, while an errouneous Chinese transliteration may be *\*dakongting*. TYPO3's built-in transliterator uses German transliteration, which is different to most English. In slugs, Gümüşhane in Turkey will erroneously be transliterated as *\*guemueshane*, rather than *gumushane*. 
+
+.. _placenames-examples:
+
+Examples:
+---------
+
+There are more than a hundred TYPO3 agencies in Munich, Germany.
+
+New York, Lincolnshire, United Kingdom
+
+Düsseldorf is the capital city of North Rhine-Westphalia, Germany.
+
+The Swedish city of Gothenburg is north of Malmö.
+
+Have you ever been to Ozora?
+
+You'll find there's more than one Kandovan in Iran.
+
 .. _quotes:
 
 Quotes
