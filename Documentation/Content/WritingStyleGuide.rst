@@ -20,7 +20,7 @@ General Assumptions
 Spelling
 --------
 
-We write using American (US) spelling. That means we write color, rather than *colour, and use -ize endings, rather than *-ise.
+We use American (US) spelling. That means we write color, rather than *colour, and use -ize endings, rather than *-ise.
 
 .. _dictionary:
 
@@ -38,7 +38,7 @@ Buttons are capitalized using Title Case.
 
 .. _comma-in-lists:
 
-Comma in Lists
+Commas in Lists
 ==============
 
 We use the so-called Oxford (or serial) comma, setting a comma before the final “and” or “or” in a list with three or more items.
@@ -113,9 +113,9 @@ Examples:
 Numbers
 =======
 
-Numbers are written using a dot “.” as decimal separator and comma “,” as thousands separator. We normally use max two decimals. The number of decimals used should reflect the text's need for accuracy.
+Numbers are written using a dot “.” as a decimal separator and comma “,” as a thousands separator. We normally use max two decimals. The number of decimals used should reflect the text's need for accuracy.
 
-The thousands separator can optionally be omitted for numbers 1,000–9,999.
+The thousands separator can be omitted for numbers 1,000–9,999.
 
 A zero should be included before the dot in numbers less than 1.0.
 
@@ -245,7 +245,7 @@ We capitalize all principal words of a title, including the first and the last w
 * up
 * yet
 
-To avoid thinking, use the *AP* captialization at `capitalizemytitle.com <https://capitalizemytitle.com/>`__, and beware that we are using a somewhat simplified rule.
+To make things easy, use *AP* capitalization at `capitalizemytitle.com <https://capitalizemytitle.com/>`__, and be aware that we are using a somewhat simplified rule.
 
 .. _title-case-examples:
 
