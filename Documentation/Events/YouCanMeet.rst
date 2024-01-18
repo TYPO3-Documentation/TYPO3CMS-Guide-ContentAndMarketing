@@ -24,12 +24,34 @@ By highlighting who you can meet at an event, we hope more people will sign up f
 Who can be listed
 =================
 
-* TYPO3 Association Board members
-* TYPO3 Association Business Control Committee (BCC) members.
-* TYPO3 Company Employees (designated by the CEO)
-* TYPO3 Company Supervisory Board members
-* TYPO3 Team Leads and Co-Leads
-* TYPO3 Core Mergers
+#. TYPO3 Association Board members
+#. TYPO3 Association Business Control Committee (BCC) members.
+#. TYPO3 Company Supervisory Board members
+#. TYPO3 Company Employees (designated by the CEO)
+#. TYPO3 Core Mergers
+#. TYPO3 Team Leads and Co-Leads
+
+.. _list-ordering:
+
+Ordering in lists
+-----------------
+
+Names are first ordered according to the prominence of a person's role:
+
+#. The role's position the bullet list above.
+#. Any prominence within the role. E.g, president before, vice president, treasurer, secretary, and others, and leader over co-leader.
+#. Alphabetically, by first name.
+
+This is based on the the assumption that *the people with the most central positions are most important to meet*.
+
+.. _list-limit:
+
+Limit
+-----
+
+Only the topmost 10 participants will be listed. This is due to a technical limitation and may be changed in the future.
+
+.. _requirements:
 
 Requirements
 ============
