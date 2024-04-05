@@ -194,4 +194,4 @@ Event
 
 *Color: dark gray*
 
-The Trello card represents and event, not a news article. Consequently, the information contained in the document should be published as an event, visible in the event listing. Event dates, etc., should be contained within the description text or attached document.
+The Trello card represents an event, not a news article. Consequently, the information contained in the document should be published as an event, visible in the event listing. Event dates, etc., should be contained within the description text or attached document.
