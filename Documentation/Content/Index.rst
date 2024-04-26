@@ -7,9 +7,10 @@ Writing and Publishing
 ======================
 
 .. toctree::
-   :titlesonly:
+    :titlesonly:
 
-   WhatGoesWhere
-   WritingStyleGuide
-   ImagesAndLicensing
+    WhatGoesWhere
+    Typo3OrgPublishingPipeline
+    WritingStyleGuide
+    ImagesAndLicensing
 
