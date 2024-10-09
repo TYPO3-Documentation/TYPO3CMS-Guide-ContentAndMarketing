@@ -27,9 +27,10 @@ Who can be listed
 #. TYPO3 Association Board members
 #. TYPO3 Association Business Control Committee (BCC) members.
 #. TYPO3 Company Supervisory Board members
-#. TYPO3 Company Employees (designated by the CEO)
+#. TYPO3 Company or Association Employees (designated by the respective board/CEO)
 #. TYPO3 Core Mergers
 #. TYPO3 Team Leads and Co-Leads
+#. Persons appointed by the TYPO3 Association Board
 
 .. _list-ordering:
 
