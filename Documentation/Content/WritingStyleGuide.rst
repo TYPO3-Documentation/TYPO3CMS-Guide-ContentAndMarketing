@@ -108,6 +108,33 @@ Examples:
 
 12 Sep. 2009
 
+.. _extensions:
+
+Extensions
+==========
+
+All extensions have a proper name in addition to the lowercase extension key. For example:
+
+- Name: AWS SDK for PHP
+- Key: aws_sdk_php
+
+When we write about extensions, we use the proper name with the convention: "The [proper name] extension...". 
+
+On the first instance of the extension name in the text, we include the key in paranthesis immediately following the proper name. For example, "The AWS SDK for PHP (aws_sdk_php) extension...". You only need to do this once. 
+
+Where appropriate, on the first instance of the extension name in the text, we also include the link to the extension's page in the TYPO3 Extension Repository `(extensions.typo3.org) <https://extensions.typo3.org/>`__.
+
+When we want to refer just to the key, for example in procedural or highly technical content, we prepend the key name with "EXT" in upper case, and we apply code formatting style to the text. For example, ``EXT:aws_sdk_php``. 
+
+.. _extensions-examples:
+
+Examples:
+---------
+
+The `AWS SDK for PHP <https://extensions.typo3.org/extension/aws_sdk_php>`_ extension (aws_sdk_php) makes the `Amazon Web Services (AWS) SDK for PHP <https://github.com/aws/aws-sdk-php>`_ available for TYPO3.
+
+The kreXX Debugger extension (includekrexx) offers advanced debugging features such as...
+
 .. _numbers:
 
 Numbers
