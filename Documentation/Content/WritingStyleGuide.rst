@@ -115,8 +115,8 @@ Extensions
 
 All extensions have a proper name in addition to the lowercase extension key. For example:
 
-- Name: AWS SDK for PHP
-- Key: aws_sdk_php
+* Name: AWS SDK for PHP
+* Key: aws_sdk_php
 
 When we write about extensions, we use the proper name with the convention: "The [proper name] extension...". 
 
