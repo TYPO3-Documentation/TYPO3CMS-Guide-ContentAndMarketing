@@ -122,7 +122,7 @@ When we write about extensions, we use the proper name with the convention: "The
 
 On the first instance of the extension name in the text, we include the key in paranthesis immediately following the proper name. For example, "The AWS SDK for PHP (aws_sdk_php) extension...". You only need to do this once. 
 
-Where appropriate, on the first instance of the extension name in the text, we also include the link to the extension's page in the TYPO3 Extension Repository `(extensions.typo3.org) <https://extensions.typo3.org/>`__.
+Where appropriate, on the first instance of the extension name in the text, we also include the link to the extension's page in the `TYPO3 Extension Repository <https://extensions.typo3.org/>`__.
 
 When we want to refer just to the key, for example in procedural or highly technical content, we prepend the key name with "EXT" in upper case, and we apply code formatting style to the text. For example, ``EXT:aws_sdk_php``. 
 
