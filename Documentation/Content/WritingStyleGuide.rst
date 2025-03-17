@@ -120,7 +120,7 @@ All extensions have a proper name in addition to the lowercase extension key. Fo
 
 When we write about extensions, we use the proper name with the convention: "The [proper name] extension...". 
 
-On the first instance of the extension name in the text, we include the key in paranthesis immediately following the proper name. For example, "The AWS SDK for PHP (aws_sdk_php) extension...".
+On the first instance of the extension name in the text, we include the key in paranthesis immediately following the proper name. For example, "The AWS SDK for PHP (aws_sdk_php) extension...". Except where the extension name is one word and the key is the same - in this case, just use the extension name. For example, "We updated the Crowdin extension..."
 
 Where appropriate, on the first instance of the extension name in the text, we also include the link to the extension's page in the `TYPO3 Extension Repository <https://extensions.typo3.org/>`__.
 
