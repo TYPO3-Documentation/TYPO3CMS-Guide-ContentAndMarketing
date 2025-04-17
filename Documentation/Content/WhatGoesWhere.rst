@@ -15,6 +15,11 @@ TYPO3 has two main websites and act as hubs for distinct target personas. Articl
 
    **Cross-posting on both websites** can happen, but the article itself should be hosted on *only one* of the websites. The other website should *use an external link to the article* and not repeat the content. If uncertain, typo3.com targets higher levels of the funnel, so it's usually the best place to host cross-posted articles.
 
+Original content
+----------------
+
+Both sites only feature original content and do not re-publish articles from other sources. However, the typo3.org does occasionally publish English translations of articles first published in other languages.
+
 .. _articles-for-typo3-com:
 
 Articles for typo3.com
