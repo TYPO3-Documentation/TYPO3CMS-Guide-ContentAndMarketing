@@ -12,5 +12,5 @@ Writing and Publishing
     WhatGoesWhere
     Typo3OrgPublishingPipeline
     WritingStyleGuide
+    KeywordLists
     ImagesAndLicensing
-
