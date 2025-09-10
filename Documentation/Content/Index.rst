@@ -13,4 +13,5 @@ Writing and Publishing
     Typo3OrgPublishingPipeline
     WritingStyleGuide
     ImagesAndLicensing
+    GuidelineForNewsArticles
 
