@@ -22,7 +22,7 @@ What do you need to get started?
 
 All community members can submit content for publishing on `news.typo3.com <https://news.typo3.com>`__. You’ll need a typo3.org account and a TYPO3 Slack account, and you're ready to start.
 
-The TYPO3 Content Group manages a lot of the content on typo3.org. However, you don’t have to be a member of the group to get published. However, if you like, you can certainly get involved.
+The TYPO3 Content Group manages a lot of the content on typo3.org. While you don't have to be a member of the group to get published, you can certainly get involved, if you like.
 
 ..  _get-news-published-types:
 
