@@ -62,8 +62,8 @@ Other cases may count as advertising and are not permitted.
 
 ..  _news-article-guidelines-follow-coc:
   
-Follow the code conduct
------------------------
+Follow the code of conduct
+--------------------------
 
 Authors must respect the values of the TYPO3 community. Details see `typo3.org/coc <https://typo3.org/coc>`__.
 
