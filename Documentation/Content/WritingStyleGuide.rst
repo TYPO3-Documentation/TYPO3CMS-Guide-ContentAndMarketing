@@ -118,13 +118,13 @@ All extensions have a proper name in addition to the lowercase extension key. Fo
 * Name: AWS SDK for PHP
 * Key: aws_sdk_php
 
-When we write about extensions, we use the proper name with the convention: "The [proper name] extension...". 
+When we write about extensions, we use the proper name with the convention: "The [proper name] extension...".
 
 On the first instance of the extension name in the text, we include the key in paranthesis immediately following the proper name. For example, "The AWS SDK for PHP (aws_sdk_php) extension...".
 
 Where appropriate, on the first instance of the extension name in the text, we also include the link to the extension's page in the `TYPO3 Extension Repository <https://extensions.typo3.org/>`__.
 
-When we want to refer just to the key, for example in procedural or highly technical content, we prepend the key name with "EXT" in upper case, and we apply code formatting style to the text. For example, ``EXT:aws_sdk_php``. 
+When we want to refer just to the key, for example in procedural or highly technical content, we prepend the key name with "EXT" in upper case, and we apply code formatting style to the text. For example, ``EXT:aws_sdk_php``.
 
 .. _extensions-examples:
 
@@ -203,7 +203,7 @@ Place names should always be introduced with their country. State or region is o
 Names of states and regions are never abbreviated.
 
 ..  warning::
-   Please note that transliterations are language-dependent. Both Japanese and Chinese use similar characters, so the characters for the Japanese town of Ōzora (大空町) is transliterated *Ōzora-chō*, while an errouneous Chinese transliteration may be *\*dakongting*. TYPO3's built-in transliterator uses German transliteration, which is different to most English. In slugs, Gümüşhane in Turkey will erroneously be transliterated as *\*guemueshane*, rather than *gumushane*. 
+   Please note that transliterations are language-dependent. Both Japanese and Chinese use similar characters, so the characters for the Japanese town of Ōzora (大空町) is transliterated *Ōzora-chō*, while an errouneous Chinese transliteration may be *\*dakongting*. TYPO3's built-in transliterator uses German transliteration, which is different to most English. In slugs, Gümüşhane in Turkey will erroneously be transliterated as *\*guemueshane*, rather than *gumushane*.
 
 .. _placenames-examples:
 
@@ -221,6 +221,30 @@ The Swedish city of Gothenburg is north of Malmö.
 Have you ever been to Ozora?
 
 You'll find there's more than one Kandovan in Iran.
+
+.. _single-letter-portmanteaus:
+
+Portmanteaus With Single-Letter Prefix
+======================================
+
+Except for the word *email*, portmanteaus with single-letter prefixes, such as *e-commerce* and *e-governance* are be written with a dash separating the prefix from the rest of the word.
+
+For product names and trademarks, the spelling and capitalization used by the owner.
+
+.. _single-letter-portmanteaus-examples:
+
+Examples:
+---------
+
+e-commerce
+
+e-governance
+
+email
+
+E-Governance In Title Case
+
+eMac
 
 .. _quotes:
 
