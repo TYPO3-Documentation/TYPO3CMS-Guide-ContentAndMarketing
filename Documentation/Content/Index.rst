@@ -14,3 +14,4 @@ Writing and Publishing
     WritingStyleGuide
     KeywordLists
     ImagesAndLicensing
+    HowToGetAnArticlePublishedInTypo3News
