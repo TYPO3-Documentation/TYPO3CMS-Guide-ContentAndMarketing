@@ -12,6 +12,7 @@ Writing and Publishing
     WhatGoesWhere
     Typo3OrgPublishingPipeline
     WritingStyleGuide
+    KeywordLists
     ImagesAndLicensing
     GuidelineForNewsArticles
-
+    HowToGetAnArticlePublishedInTypo3News
