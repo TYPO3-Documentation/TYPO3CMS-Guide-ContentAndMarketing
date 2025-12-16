@@ -227,9 +227,9 @@ You'll find there's more than one Kandovan in Iran.
 Portmanteaus With Single-Letter Prefix
 ======================================
 
-Except for the word *email*, portmanteaus with single-letter prefixes, such as *e-commerce* and *e-governance* are be written with a dash separating the prefix from the rest of the word.
+Except for the word *email*, portmanteaus with single-letter prefixes, such as *e-commerce* and *e-governance* must be written with a dash separating the prefix from the rest of the word.
 
-For product names and trademarks, the spelling and capitalization used by the owner.
+For product names and trademarks, the spelling and capitalization used by the owner should be used.
 
 .. _single-letter-portmanteaus-examples:
 
