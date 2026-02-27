@@ -10,6 +10,10 @@ Writing Style Guide
 
 Style guides can become very, very long. We keep this guide short to make sure you read it, but it means we only cover the most important topics. If you would like to read more about style and usage, check out `Jack Lynch’s Guide to Grammar and Style <http://jacklynch.net/Writing/>`__, read the `Google Developer Documentation Style Guide <https://developers.google.com/style/>`__, or buy the `Chicago Manual of Style <http://www.chicagomanualofstyle.org/>`__ (after all, it is abbreviated CMS).
 
+..  contents:: Table of Contents
+    :local:
+    :depth: 1
+
 .. _assumptions:
 
 General Assumptions
@@ -134,6 +138,55 @@ Examples:
 The `AWS SDK for PHP <https://extensions.typo3.org/extension/aws_sdk_php>`_ extension (aws_sdk_php) makes the `Amazon Web Services (AWS) SDK for PHP <https://github.com/aws/aws-sdk-php>`_ available for TYPO3.
 
 The kreXX Debugger extension (includekrexx) offers advanced debugging features such as...
+
+.. _links-prioritizing:
+
+Links (Prioritizing)
+====================
+
+We prioritize links according to these rules:
+
+* Always prioritize links to TYPO3's own web properties.
+* Only link to external websites when no suitable alternative can be found and it is a benefit to the reader.
+* Link to a site’s domain or main page unless deep linking is a benefit to the reader.
+* Link to explanations of terms, technologies, and products when it is a benefit to the reader.
+* Use links to neutral and non-profit sites like Wikipedia over biased or commercial interests.
+* Link to content in the same language whenever possible.
+* Commercial sites can be linked as an acknowledgement for contribution to TYPO3.
+* Do not link to external content advertising commercial or paid products/services unless an official TYPO3 endorsement exists.
+
+As a guideline, we prioritize links within TYPO3's web properties according to this list:
+
+1. Same site
+2. typo3.com
+3. news.typo3.com, typo3.community, and typo3.org
+4. Other properties (docs.typo3.org, extensions.typo3.org, talk.typo3.org, etc.)
+
+See also the entry on :ref:`extensions <extensions>`.
+
+.. _links-inline:
+
+Links (Inline)
+==============
+
+Our inline links should:
+
+* Be descriptive, concise, and logically integrated into the text.
+* Contain relevant keywords that semantically describe the content of the page they link to.
+* Be further contextualized in surrounding content, for example by including relevant conclusions.
+
+It follows that links with terms like "click here" and "this" are discouraged.
+
+.. _links-inline-examples:
+
+Examples:
+---------
+
+The `development roadmap <#>`_ contains information about features, PHP compatibility, and end-of-life dates.
+
+Discover impactful projects created by our `global network of partner agencies <#>`_.
+
+Last year's `TYPO3 Association budget <#>`_ increased by 20 billion.
 
 .. _numbers:
 
