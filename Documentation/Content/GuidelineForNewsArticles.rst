@@ -13,7 +13,7 @@ Foreword
 
 A lot of the news on the TYPO3 websites is community-created. This helps create a homebase for our community. The content should be neutral and offer reliable and useful information.
 
-We accept articles about TYPO3 CMS, the TYPO3 community, web technologies, Best practices for web development and other open source-related topics. Your content must hold certain licenses to be publishable on the site.
+We accept articles about TYPO3 CMS, the TYPO3 community, web technologies, best practices for web development and other open source-related topics. Your content must hold certain licenses to be publishable on the site.
 
 ..  _news-article-guidelines-guidelines:
 
@@ -35,7 +35,7 @@ The main language of the TYPO3 community is English. Therefore all articles must
 Audience
 --------
 
-The readers of our websites are technical and non-technical. Many are users of TYPO3 CMS and part of the TYPO3 community or interested in getting a part of it. They come from many different backgrounds and fields of study. We welcome all to learn more about TYPO3.
+The readers of our websites are technical and non-technical. Many are users of TYPO3 CMS and part of the TYPO3 community or interested in becoming part of it. They come from many different backgrounds and fields of study. We welcome all to learn more about TYPO3.
 
 ..  _news-article-guidelines-images:
 
@@ -56,9 +56,9 @@ Generally, it is not permitted to place any advertisements in your article. The 
 External Links
 --------------
 
-Links to external sites are permitted, if they create a concrete benefit for the reader. Links to companies are permitted as an acknowledgement for contribution to the product development or contribution to an official team.
+Links to external sites are permitted if they create a concrete benefit for the reader. Links to companies’ home pages are permitted as an acknowledgement for contribution to the product development or contribution to an official team.
 
-Other cases may count as advertising and are not permitted.
+Other cases may count as advertising and are not permitted. Please see the :ref:`Writing Style Guide's entry on link prioritization <links-prioritizing>` for the exhaustive rules.
 
 See also the :ref:`Style Guide entry on link prioritization <links-prioritizing>`.
 
