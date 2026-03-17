@@ -60,8 +60,6 @@ Links to external sites are permitted if they create a concrete benefit for the 
 
 Other cases may count as advertising and are not permitted. Please see the :ref:`Writing Style Guide's entry on link prioritization <links-prioritizing>` for the exhaustive rules.
 
-See also the :ref:`Style Guide entry on link prioritization <links-prioritizing>`.
-
 ..  _news-article-guidelines-follow-coc:
 
 Follow the code of conduct
