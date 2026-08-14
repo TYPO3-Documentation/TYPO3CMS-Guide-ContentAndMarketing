@@ -1,20 +1,29 @@
 .. include:: /Includes.rst.txt
 
 .. _t3o-pipeline:
+.. _community-news-pipeline:
 
-=============================
-typo3.org Publishing Pipeline
-=============================
+==============================================
+Community Contributed News Publishing Pipeline
+==============================================
+
+This page outlines the publication pipeline for community-submitted `TYPO3 News <https://news.typo3.com/>`__ articles and events. Content should primarily be submitted through the `Content Request Form <https://typo3.community/contribute/teams-committees/marketing/content/request>`__.
+
+The `TYPO3 Company <https://typo3.org/company>`__ maintains a different pipeline for their internal content and content sourced from official partners. If you're an official partner, feel free to reach out to your contact person for more information.
+
+Please refer to :ref:`How to Get and Article Published in TYPO3 News <get-news-published>` for an overview of the process and and the :ref:`Guidelines for News Articles <news-article-guidelines>` for information on how to write suitable content.
 
 .. _t3o-pipeline-responsible:
+.. _community-news-pipeline-responsible:
 
 Who is responsible?
 ===================
 
-The publishing pipeline is managed by the `TYPO3 Content Group <https://typo3.org/community/teams/content>`__.
+The publishing pipeline is managed by the `TYPO3 Content Group <https://typo3.community/contribute/teams-committees/marketing/content>`__.
 
 
 .. _t3o-pipeline-trello:
+.. _community-news-pipeline-trello:
 
 Location — Trello board
 =======================
@@ -23,6 +32,7 @@ The publishing pipeline for news and events on typo3.org is maintained on a `pub
 
 
 .. _t3o-pipeline-stages:
+.. _community-news-pipeline-stages:
 
 Pipeline stages
 ===============
@@ -30,15 +40,17 @@ Pipeline stages
 The pipeline has eight stages (aka. swim lanes):
 
 .. _t3o-pipeline-stages-content-requests:
+.. _community-news-pipeline-stages-content-requests:
 
 Content requests
 ----------------
 
-New content requests submitted through the `Content Request Form <https://typo3.org/community/teams/communication-coordination/content-request>`__ land in this swim lane.
+New content requests submitted through the `Content Request Form <https://typo3.community/contribute/teams-committees/marketing/content/request>`__ land in this swim lane.
 
-Cards in this swim lane are unprocessed by the `TYPO3 Content Group <https://typo3.org/community/teams/content>`__.
+Cards in this swim lane are unprocessed by the `TYPO3 Content Group <https://typo3.community/contribute/teams-committees/marketing/content>`__.
 
 .. _t3o-pipeline-stages-in-progress:
+.. _community-news-pipeline-stages-in-progress:
 
 Content in progress
 -------------------
@@ -47,6 +59,7 @@ This swim lane holds Trello cards for content that is still being written.
 
 
 .. _t3o-pipeline-stages-needs-review:
+.. _community-news-pipeline-stages-needs-review:
 
 Needs review or proofreading
 ----------------------------
@@ -55,6 +68,7 @@ Trello cards move into this swim lane when the content they represent has been w
 
 
 .. _t3o-pipeline-stages-returned-to-author:
+.. _community-news-pipeline-stages-returned-to-author:
 
 Reviewed and returned to author
 -------------------------------
@@ -63,6 +77,7 @@ When an article has been proofread, the Trello card representing it is moved int
 
 
 .. _t3o-pipeline-stages-ready:
+.. _community-news-pipeline-stages-ready:
 
 Ready to publish
 ----------------
@@ -73,6 +88,7 @@ Articles in this swim lane usually have an assigned publication date (indicated 
 
 
 .. _t3o-pipeline-stages-published:
+.. _community-news-pipeline-stages-published:
 
 Published and ready for next newsletter
 ---------------------------------------
@@ -81,6 +97,7 @@ After an article or event has been published on typo3.org, the Trello card repre
 
 
 .. _t3o-pipeline-stages-in-newsletter:
+.. _community-news-pipeline-stages-in-newsletter:
 
 Already published in newsletter
 -------------------------------
@@ -88,6 +105,7 @@ Already published in newsletter
 Once an article has been included in a published newsletter, the Trello card representing it is moved into this swim lane. The card will automatically be archived and disappear from view.
 
 .. _t3o-pipeline-stages-blocked:
+.. _community-news-pipeline-stages-blocked:
 
 Blocked
 -------
@@ -110,6 +128,7 @@ The labels are listed in the order they have in Trello.
     :alt: List of labels with colored backgrounds from Trello
 
 .. _t3o-pipeline-labels-medium-visibility:
+.. _community-news-pipeline-labels-medium-visibility:
 
 Medium Visibility
 -----------------
@@ -121,6 +140,7 @@ Once published, the article or event should have social media mention.
 The exact nature of the visibility outside of typo3.org is decided by the person responsible for social media in the `TYPO3 Company <https://typo3.com/typo3-gmbh>`__.
 
 .. _t3o-pipeline-labels-high-visibility:
+.. _community-news-pipeline-labels-high-visibility:
 
 High Visibility
 ---------------
@@ -132,6 +152,7 @@ A higher level of visibility than for the *Medium Visibility* label. Once publis
 The exact nature of the visibility outside of typo3.org is decided by the person responsible for social media in the `TYPO3 Company <https://typo3.com/typo3-gmbh>`__.
 
 .. _t3o-pipeline-labels-time-sensitive:
+.. _community-news-pipeline-labels-time-sensitive:
 
 Time Sensitive
 --------------
@@ -143,17 +164,18 @@ The item should be published sooner, rather than later.
 
 .. _t3o-pipeline-labels-from-typo3com:
 
-From typo3.com
---------------
+From TYPO3 Company
+------------------
 
 *Color: violet*
 
-This article originates at typo3.com and will be linked to the article at typo3.com.
+This article originates in the `TYPO3 Company <https://typo3.org/company>`__'s content pipeline.
 
-Talk with the person responsible for content publication at the `TYPO3 Company <https://typo3.com/typo3-gmbh>`__ before changing this item.
+Talk with the person responsible for content publication at the TYPO3 Company before changing this item.
 
 
 .. _t3o-pipeline-labels-press-release:
+.. _community-news-pipeline-labels-press-release:
 
 Press Release
 -------------
@@ -162,10 +184,9 @@ Press Release
 
 This item represents a press release and will be published as such.
 
-Talk with the person responsible for content publication at the `TYPO3 Company <https://typo3.com/typo3-gmbh>`__ before changing this item.
-
 
 .. _t3o-pipeline-labels-visibility-deadline:
+.. _community-news-pipeline-labels-visibility-deadline:
 
 Visibility Near Deadline
 ------------------------
@@ -174,10 +195,11 @@ Visibility Near Deadline
 
 This item represents information about a time-limited opportunity, such as a vote or poll. It should be given additional visibility closer to the end of the time-limited period.
 
-The exact nature of the visibility outside of typo3.org is decided by the person responsible for social media in the `TYPO3 Company <https://typo3.com/typo3-gmbh>`__.
+The exact nature of the visibility outside of typo3.org is decided by the person responsible for social media in the `TYPO3 Company <https://typo3.org/company>`__.
 
 
 .. _t3o-pipeline-labels-date-locked:
+.. _community-news-pipeline-labels-date-locked:
 
 Date Locked
 -----------
@@ -188,6 +210,7 @@ The item's publication date must not be changed.
 
 
 .. _t3o-pipeline-labels-event:
+.. _community-news-pipeline-labels-event:
 
 Event
 -----
