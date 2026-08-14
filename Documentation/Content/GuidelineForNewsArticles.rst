@@ -61,11 +61,17 @@ of these statements (if applicable):
 1. Defining TYPO3 News
 ======================
 
-TYPO3 News is the shared platform for news and events publication for the
-TYPO3 ecosystem: TYPO3 CMS, the TYPO3 community, teams, initiatives,
-events, and other activities relevant to TYPO3.
+`TYPO3 News <https://news.typo3.com>`__ is the shared platform for news
+and events publication for the TYPO3 ecosystem: TYPO3 CMS, the TYPO3
+community, teams, initiatives, events, and other activities relevant to
+TYPO3.
 
 The TYPO3 Association and TYPO3 Company are the responsible publishers.
+
+The site features original content and does not re-publish articles, with
+the exception of English translations of articles published elsewhere in
+other languages. Some articles are made available in other languages of
+the `typo3.com <https://typo3.com>`__ website.
 
 TYPO3 News is an editorial publication, not an advertising platform. Its
 purpose is to inform readers, document activities, share knowledge, and help
