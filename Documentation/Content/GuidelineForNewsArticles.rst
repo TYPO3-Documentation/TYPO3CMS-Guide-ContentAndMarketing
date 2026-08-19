@@ -452,8 +452,37 @@ allows readers to verify it.
 
 Articles should focus on information that is useful to readers.
 
-Generally, it is not permitted to place any advertisements in articles.
-An exception is cases where an official TYPO3 endorsement exists.
+It is not permitted to place any advertisements or other commercial promotion
+in articles or make the article a vehicle for commercial gain.
+
+Exceptions to the rule:
+
+* Any case where an official TYPO3 endorsement exists.
+* Open source products where voluntary donations are possible, but they do not
+  exceed a product's actual costs of design, development, and maintenance.
+
+Examples of articles with commercial intent:
+
+* **Direct product promotion:** The article primarily concerns a commercial
+  product or service.
+* **Promotional case study:** A case study that promotes an agency, vendor, or
+  service provider, rather than TYPO3.
+* **Commercial dependency or freemium:** The article concerns a free product or
+  service that requires payment to become useful or that requires a commercial
+  product or service to function.
+* **Commercial upselling:** An otherwise useful article directs readers toward
+  paid services for the next step.
+* **Promotional comparison:** A comparison favors a commercial product,
+  provider, or service without sufficient editorial justification.
+* **Links to commercial services:** The article links to pages promoting
+  commercial products or services.
+* **Lead generation:** The article encourages readers to contact a company,
+  request a quote, book a consultation, or otherwise become a commercial lead.
+* **Commercial testimonials:** A story primarily serves as a testimonial for a
+  commercial product or service.
+* **Educational sales content:** A tutorial, technical article, or other
+  educational content primarily serves to promote the author's commercial
+  services.
 
 The :ref:`Writing Style Guide <links-prioritizing>` also gives
 directions on what commercial content can be linked from articles.
