@@ -15,7 +15,7 @@ The four websites are:
 * `typo3.org <https://typo3.org>`__ — Explain and build confidence in the TYPO3 Project, its organization, and long-term sustainability.
 * `news.typo3.com <https://news.typo3.com>`__ — News and events about and concerning TYPO3 and what happens in the TYPO3 ecosystem.
 
-With very few exceptions, all four sites contain only original content produced by the TYPO3 Association, the TYPO3 Company, or members of the TYPO3 Community.
+With very few exceptions, all four sites contain only original content produced by the TYPO3 Association, the TYPO3 Company and their partners, or members of the TYPO3 Community.
 
 .. tip::
 
