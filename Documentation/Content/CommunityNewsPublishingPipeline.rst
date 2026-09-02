@@ -164,7 +164,7 @@ The item should be published sooner, rather than later.
 
 .. _t3o-pipeline-labels-from-typo3com:
 
-From TYPO3 Company
+From the TYPO3 Company
 ------------------
 
 *Color: violet*
@@ -195,7 +195,7 @@ Visibility Near Deadline
 
 This item represents information about a time-limited opportunity, such as a vote or poll. It should be given additional visibility closer to the end of the time-limited period.
 
-The exact nature of the visibility outside of typo3.org is decided by the person responsible for social media in the `TYPO3 Company <https://typo3.org/company>`__.
+The exact nature of the visibility outside of TYPO3’s websites is decided by the person responsible for social media in the `TYPO3 Company <https://typo3.org/company>`__. For more information, see the `list of press contacts <https://typo3.com/typo3-gmbh/media-center#c9217>`__.
 
 
 .. _t3o-pipeline-labels-date-locked:
