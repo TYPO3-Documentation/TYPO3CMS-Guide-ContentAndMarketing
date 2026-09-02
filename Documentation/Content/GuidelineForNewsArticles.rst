@@ -122,7 +122,7 @@ TYPO3 News articles cover topics such as:
 
 ..  tip::
 
-    Are you are unsure whether the topic is suitable? Submit your idea already before
+    Are you unsure whether the topic is suitable? Submit your idea already before
     writing a full article. See :ref:`How to Get an Article Published in TYPO3 News
     <get-news-published>`.
 
