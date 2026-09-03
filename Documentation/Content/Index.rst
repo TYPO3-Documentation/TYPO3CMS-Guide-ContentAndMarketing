@@ -10,7 +10,7 @@ Writing and Publishing
     :titlesonly:
 
     WhatGoesWhere
-    Typo3OrgPublishingPipeline
+    CommunityNewsPublishingPipeline
     WritingStyleGuide
     KeywordLists
     ImagesAndLicensing
