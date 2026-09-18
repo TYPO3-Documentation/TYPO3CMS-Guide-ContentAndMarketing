@@ -83,14 +83,14 @@ Grab it now, for just €1.
 Dashes
 ======
 
-We use an em-dashes without spaces around to mark parenthesis. We use n-dashes without spaces around to mark from–to in a number series.
+We use an em-dashes with spaces around to mark parenthesis. We use n-dashes without spaces around to mark from–to in a number series.
 
 .. _dashes-examples:
 
 Examples:
 ---------
 
-TYPO3—not any other CMS—is my favorite.
+TYPO3 — not any other CMS — is my favorite.
 
 There are 20–25 options available.
 
