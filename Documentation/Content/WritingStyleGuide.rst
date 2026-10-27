@@ -33,6 +33,24 @@ Dictionary
 
 If the spelling of a word is disputed, `Merriam-Webster’s Dictionary <https://www.merriam-webster.com/>`__ has the correct answer.
 
+.. _apostrophes:
+
+Apostrophes
+===========
+
+We use typographer’s quotes.
+
+.. _apostrophes-examples:
+
+Examples:
+---------
+
+It’s clear that it doesn’t.
+
+Tryin’ to tell ’em it’s TYPO3’s birthday.
+
+The ’90s are officially cool again.
+
 .. _buttons:
 
 Buttons
@@ -304,9 +322,13 @@ eMac
 Quotes
 ======
 
-Exact quotes are written between double quotation marks. Quotes within quotes are written between single quotes. For long quoted sections, we use indented block quotations without quotation marks. Periods and commas are placed within quotation marks. Colons and semicolons are placed outside of quotation marks.
+Double quotation marks are reserved for for actual speech and direct quotes. Quotes within quotes are written between single quotes. For long quoted sections, we use indented block quotations without quotation marks. Periods and commas are placed within quotation marks. Colons and semicolons are placed outside of quotation marks.
 
 Changes and omissions within quotes are [in brackets].
+
+We avoid using irony and therefore avoid irony quotes. If you actually mean it, don’t use quotation marks. If you don’t mean it, don’t write it at all.
+
+We use typographer’s quotation marks: “ ” (‘ ’ within quotes). Code blocks use regular quotes (" ") or as required by the programming language.
 
 .. _quotes-examples:
 
@@ -323,6 +345,8 @@ The poem goes:
 
     Roses are red
     Violets are blue
+
+:php:`echo "Hello world!";`
 
 .. _title-case:
 
