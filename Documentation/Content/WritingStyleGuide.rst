@@ -322,7 +322,7 @@ eMac
 Quotes
 ======
 
-Quotation marks are reserved for for actual speech and direct quotes. We use double quotation marks are used. Quotes within quotes are written between single quotes. For long quoted sections, we use indented block quotations without quotation marks. Periods and commas are placed within quotation marks. Colons and semicolons are placed outside of quotation marks.
+Quotation marks are reserved for for actual speech and direct quotes. We use double quotation marks. Quotes within quotes are written between single quotes. For long quoted sections, we use indented block quotations without quotation marks. Periods and commas are placed within quotation marks. Colons and semicolons are placed outside of quotation marks.
 
 Changes and omissions within quotes are [in brackets].
 
